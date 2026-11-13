@@ -23,4 +23,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: deployment # Add an ID to the step so we can get the URL on completion
-        uses: iansan5653/publish-js-to-pages@1.0.1 # Note: GitHub recommends tagging this to a full commit hash
+        uses: iansan5653/publish-js-to-pages@1.1.0 # Note: GitHub recommends tagging this to a full commit hash
